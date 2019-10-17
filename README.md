@@ -22,8 +22,11 @@ If you don't understand the code, feel free to contact me:)
 We chose FLASK as our framework. It's simple and elegant. We used a Bootstrap template for front-end. You can google and use any template you like:)<br>
 Here are screenshots how we collect human-level-performance feedback.
 ![login page](https://github.com/lwang89/PredictingSmileTypes/blob/master/human-level_performance_feedback_collection/images/1.png)
+login page<br>
 ![submit result](https://github.com/lwang89/PredictingSmileTypes/blob/master/human-level_performance_feedback_collection/images/2.png)
+submit result<br>
 ![rest page](https://github.com/lwang89/PredictingSmileTypes/blob/master/human-level_performance_feedback_collection/images/3.png)
+rest page<br>
 ### traditional_ML
 
 
@@ -38,5 +41,7 @@ Here are screenshots how we collect human-level-performance feedback.
 * [Dlib](http://dlib.net/) - The C++ toolkit containing machine learning algorithms and tools used.
 * [Scikit-learn](https://scikit-learn.org/stable/) - 
 ## Authors
-
+* **Leon Wang** - [lwang89](https://github.com/lwang89)
+* **David Guy Brizan** - [dbrizan](https://github.com/dbrizan)
 ## Acknowledgments
+* Beste Yuksel
