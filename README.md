@@ -1,5 +1,10 @@
 # PredictingSmileTypes
 
+## Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.<br>
+### Prerequisites
+1. Python 3.  We're using 3.6.2.
+You can get it here: https://www.python.org/downloads/
 ## facial_landmarks_dection
 We applied openCV(cv2) and dlib to fetch 68 landmarks( the predictor was trained on [iBUG 300-W dataset](https://ibug.doc.ic.ac.uk/resources/facial-point-annotations/)).<br>
 The whole methodology followed the idea from Adrian Rosebrock([Here is the link:)](https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/).<br>
@@ -9,7 +14,7 @@ I generate the data for traditional ML models and LSTM models during processing 
 If you don't understand the code, feel free to contact me:)
 
 ## human-level_performance_feedback_collection
-I used 
+We ch
 ![the pic](https://github.com/lwang89/PredictingSmileTypes/blob/master/human-level_performance_feedback_collection/images/1.png)
 ## traditional_ML
 
@@ -18,3 +23,5 @@ I used
 
 
 ## LSTM
+
+##
