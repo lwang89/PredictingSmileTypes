@@ -28,13 +28,12 @@ submit result<br>
 ![rest page](https://github.com/lwang89/PredictingSmileTypes/blob/master/human-level_performance_feedback_collection/images/3.png)
 rest page<br>
 ### traditional_ML
-
+We apply different traditional ML models here.
 
 ### useful_facial_landmarks
 
-
 ### LSTM
-
+LSTM model is deployed here.
 ## Built With
 * [Flask](https://palletsprojects.com/p/flask/) - An web framework used
 * [OpenCV](https://opencv.org) - An open source computer vision and machine learning software library.
@@ -46,3 +45,4 @@ rest page<br>
 * **David Guy Brizan** - [dbrizan](https://github.com/dbrizan)
 ## Acknowledgments
 * Beste Yuksel
+* Adrian Rosebrock
