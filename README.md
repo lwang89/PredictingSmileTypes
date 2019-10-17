@@ -8,7 +8,7 @@ You can get it here: https://www.python.org/downloads/<br>
 2. dlib.<br>
 3. openCV(cv2).<br>
 4. Pandas, NumPy and scikit-learn.
-5. Pytorch. We're using 0.3.0.
+5. PyTorch. We're using 0.3.0.
 You can get it here: https://pytorch.org/get-started/locally/<br>
 ## facial_landmarks_dection
 We applied openCV(cv2) and dlib to fetch 68 landmarks( the predictor was trained on [iBUG 300-W dataset](https://ibug.doc.ic.ac.uk/resources/facial-point-annotations/)).<br>
@@ -36,10 +36,11 @@ rest page<br>
 ### LSTM
 
 ## Built With
-* [Flask](https://palletsprojects.com/p/flask/) - The web framework used
-* [OpenCV](https://opencv.org) - The open source computer vision and machine learning software library.
+* [Flask](https://palletsprojects.com/p/flask/) - An web framework used
+* [OpenCV](https://opencv.org) - An open source computer vision and machine learning software library.
 * [Dlib](http://dlib.net/) - The C++ toolkit containing machine learning algorithms and tools used.
-* [Scikit-learn](https://scikit-learn.org/stable/) - 
+* [Scikit-learn](https://scikit-learn.org/stable/) - A free software machine learning library for the Python programming language used.
+* [PyTorch] (https://pytorch.org) - An open source machine learning library based on the Torch library used.
 ## Authors
 * **Leon Wang** - [lwang89](https://github.com/lwang89)
 * **David Guy Brizan** - [dbrizan](https://github.com/dbrizan)
