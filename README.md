@@ -7,26 +7,31 @@ These instructions will get you a copy of the project up and running on your loc
 You can get it here: https://www.python.org/downloads/<br>
 2. dlib.<br>
 3. openCV(cv2).<br>
-4. pandas, numPy and skLearn.
+4. pandas, numPy and scikit-learn.
 5. Pytorch. We're using 0.3.0.
 You can get it here: https://pytorch.org/get-started/locally/<br>
 ## facial_landmarks_dection
 We applied openCV(cv2) and dlib to fetch 68 landmarks( the predictor was trained on [iBUG 300-W dataset](https://ibug.doc.ic.ac.uk/resources/facial-point-annotations/)).<br>
 The whole methodology followed the idea from Adrian Rosebrock([Here is the link:)](https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/).<br>
 
-I generate the data for traditional ML models and LSTM models during processing frames.<br>
+We generated the data for traditional ML models and LSTM models during processing frames.<br> Basicly, traditional Ml models needed me calculate mean and standard deviation values for every 30 frames while we feeded LSTM model raw data (a good boy, right?).<br>
 
 If you don't understand the code, feel free to contact me:)
 
-## human-level_performance_feedback_collection
-We ch
-![the pic](https://github.com/lwang89/PredictingSmileTypes/blob/master/human-level_performance_feedback_collection/images/1.png)
-## traditional_ML
+### human-level_performance_feedback_collection
+We chose FLASK as our framework. It's simple and elegant. We used a Bootstrap template for front-end. You can google and use any template you like:)<br>
+Here are screenshots how we collect human-level-performance feedback.
+![](https://github.com/lwang89/PredictingSmileTypes/blob/master/human-level_performance_feedback_collection/images/1.png)
+### traditional_ML
 
 
-## useful_facial_landmarks
+### useful_facial_landmarks
 
 
-## LSTM
+### LSTM
 
-##
+## Built With
+
+## Authors
+
+## Acknowledgments
