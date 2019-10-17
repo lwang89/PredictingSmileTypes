@@ -5,8 +5,8 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 1. Python 3.  We're using 3.6.2.
 You can get it here: https://www.python.org/downloads/<br>
-2. dlib.<br>
-3. openCV(cv2).<br>
+2. Dlib.<br>
+3. OpenCV(cv2).<br>
 4. Pandas, NumPy and scikit-learn.
 5. PyTorch. We're using 0.3.0.
 You can get it here: https://pytorch.org/get-started/locally/<br>
