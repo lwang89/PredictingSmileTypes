@@ -7,7 +7,7 @@ These instructions will get you a copy of the project up and running on your loc
 You can get it here: https://www.python.org/downloads/<br>
 2. dlib.<br>
 3. openCV(cv2).<br>
-4. pandas, numPy and skLearn.<>
+4. pandas, numPy and skLearn.
 5. Pytorch. We're using 0.3.0.
 You can get it here: https://pytorch.org/get-started/locally/<br>
 ## facial_landmarks_dection
