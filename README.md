@@ -10,7 +10,7 @@ If you don't understand the code, feel free to contact me:)
 
 ## human-level_performance_feedback_collection
 I used 
-
+![the pic](https://github.com/lwang89/PredictingSmileTypes/blob/master/human-level_performance_feedback_collection/images/1.png)
 ## traditional_ML
 
 
